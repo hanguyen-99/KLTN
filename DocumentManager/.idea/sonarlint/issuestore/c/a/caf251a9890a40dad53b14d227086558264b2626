@@ -1,0 +1,21 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(‘¥Ñ ûÿÿÿÿ
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(²¼Êï
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ú¹¹­
+j
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(÷†¾×
+o
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(×Ü·ˆÿÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'org.springframework.boot.CommandLineRunner'.(È—ÿÅ
+^
+java:S1128
+"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ

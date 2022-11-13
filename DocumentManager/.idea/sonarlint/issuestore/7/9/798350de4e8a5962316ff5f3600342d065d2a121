@@ -1,0 +1,126 @@
+
+`	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+a	java:S112¬"FDefine and throw a dedicated exception instead of using a generic one.(ŒÚ„§ÿÿÿÿÿ
+a	java:S112÷"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+i
+java:S3776„"RRefactor this method to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ì‡™Ò
+R	java:S125"<This block of commented-out lines of code should be removed.(±“‘É
+I
+java:S1135•"2Complete the task associated to this TODO comment.(…îŠ
+R	java:S125›"<This block of commented-out lines of code should be removed.(çú¿©
+H
+java:S1135š"2Complete the task associated to this TODO comment.(™Şü$
+I
+java:S1135"2Complete the task associated to this TODO comment.(Ç¿Û™
+R	java:S125©"<This block of commented-out lines of code should be removed.(Ôšÿ—
+I
+java:S1135¹"2Complete the task associated to this TODO comment.(Œ ¬“
+N
+java:S1135Ø"2Complete the task associated to this TODO comment.(äï›Úøÿÿÿÿ
+R	java:S125â"<This block of commented-out lines of code should be removed.(Ôšÿ—
+N
+java:S1135á"2Complete the task associated to this TODO comment.(»³»Áÿÿÿÿÿ
+_
+java:S5361–"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ä´êğ
+Z
+java:S1612¨">Replace this lambda with method reference 'sentences::remove'.(‡‘ôÒûÿÿÿÿ
+G
+java:S2201©"+The return value of "collect" must be used.(†Îºüÿÿÿÿ
+_
+java:S5361±"HReplace this call to "replaceAll()" by a call to the "replace()" method.(ä´êğ
+N
+java:S1135Ò"2Complete the task associated to this TODO comment.(÷ÔşÙúÿÿÿÿ
+H
+java:S1135Ö"2Complete the task associated to this TODO comment.(ØüE
+N
+java:S1135Û"2Complete the task associated to this TODO comment.(„¡‹Éùÿÿÿÿ
+ƒ
+java:S1130¼"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ö§íŒ
+R	java:S125¨"<This block of commented-out lines of code should be removed.(ê¤Ÿš
+Z
+java:S1612Á"CReplace this lambda with method reference 'tokenizerOfTarget::add'.(•÷ü¥
+W
+java:S1612È"@Replace this lambda with method reference 'String::toLowerCase'.(¥ÇÚ“
+i
+java:S3776Ò"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(ÍÓİ‹
+I
+java:S1135à"2Complete the task associated to this TODO comment.(ñºË¿
+I
+java:S1135æ"2Complete the task associated to this TODO comment.(‡Î
+P
+java:S1612"9Replace this lambda with method reference 'String::trim'.(ùİ¢¯
+N
+java:S1135è"2Complete the task associated to this TODO comment.(€¦«ùÿÿÿÿ
+I
+java:S1135õ"2Complete the task associated to this TODO comment.(ñ³Æê
+N
+java:S1135ø"2Complete the task associated to this TODO comment.(ËªÕ£ùÿÿÿÿ
+N
+java:S1135ş"2Complete the task associated to this TODO comment.(÷Õåøÿÿÿÿ
+P
+java:S2864…"4Iterate over the "entrySet" instead of the "keySet".(œü„Øşÿÿÿÿ
+N
+java:S1135„"2Complete the task associated to this TODO comment.(Âû‡üÿÿÿÿ
+N
+java:S1135ˆ"2Complete the task associated to this TODO comment.(…‘ÉÛûÿÿÿÿ
+I
+java:S1135‹"2Complete the task associated to this TODO comment.(˜í¨°
+I
+java:S1135—"2Complete the task associated to this TODO comment.(åšª×
+N
+java:S1135š"2Complete the task associated to this TODO comment.(ú©Üûÿÿÿÿ
+N
+java:S1135"2Complete the task associated to this TODO comment.(ñí‘Ãÿÿÿÿÿ
+H
+java:S1135¤"2Complete the task associated to this TODO comment.(»Å
+N
+java:S1135§"2Complete the task associated to this TODO comment.(ØŸ¤‚üÿÿÿÿ
+N
+java:S1135ª"2Complete the task associated to this TODO comment.(îšø§ùÿÿÿÿ
+N
+java:S1135¯"2Complete the task associated to this TODO comment.(‡Ãå“üÿÿÿÿ
+O	java:S106Ë"9Replace this use of System.out or System.err by a logger.(„¨í«
+T	java:S106Ì"9Replace this use of System.out or System.err by a logger.(«ıÍúÿÿÿÿ
+O	java:S106Í"9Replace this use of System.out or System.err by a logger.(„¨í«
+O	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(ÂÈ£è
+T	java:S106Ò"9Replace this use of System.out or System.err by a logger.(àºñ¥ùÿÿÿÿ
+T	java:S106Ó"9Replace this use of System.out or System.err by a logger.(âğÌ¹şÿÿÿÿ
+T	java:S106Ö"9Replace this use of System.out or System.err by a logger.(…ã£Šıÿÿÿÿ
+O	java:S106Ø"9Replace this use of System.out or System.err by a logger.(ÅäëÎ
+O	java:S106Ü"9Replace this use of System.out or System.err by a logger.(Ø¯“¬
+n
+java:S3776á"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(™èäÊÿÿÿÿÿ
+I
+java:S1135ï"2Complete the task associated to this TODO comment.(ñºË¿
+I
+java:S1135÷"2Complete the task associated to this TODO comment.(‡Î
+D
+java:S1144°"-Remove this unused private "division" method.(ËÏÿ¡
+L
+java:S1144™"5Remove this unused private "formatTokenizers" method.(–ôŠ•
+M
+java:S1144Â"1Remove this unused private "toBytesArray" method.(ÅÊÍıÿÿÿÿ
+N
+java:S1144á"2Remove this unused private "getPlagiarism" method.(™èäÊÿÿÿÿÿ
+v
+java:S1192J"[Define a constant instead of duplicating this literal "Document of user not found" 3 times.(¹Øƒ¦ùÿÿÿÿ
+t	java:S135º"YReduce the total number of break and continue statements in this loop to use at most one.(²—÷øÿÿÿÿ
+n	java:S127Ÿ"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ
+s	java:S127º"XRefactor the code in order to not assign to this loop counter from within the loop body.(‰÷˜ìøÿÿÿÿ
+K
+java:S1066å"/Merge this if statement with the enclosing one.(²ÉÇÜüÿÿÿÿ
+F
+java:S1066í"/Merge this if statement with the enclosing one.(‚âºŠ
+F
+java:S1066ÿ"/Merge this if statement with the enclosing one.(‚âºŠ
+Z
+java:S1155š">Use isEmpty() to check whether the collection is empty or not.(”¦Üšûÿÿÿÿ
+Z
+java:S1155¡">Use isEmpty() to check whether the collection is empty or not.(”¦Üšûÿÿÿÿ
+T
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(™•È
+Z
+java:S1155¿">Use isEmpty() to check whether the collection is empty or not.(Ÿ™Ì‚øÿÿÿÿ
+3
+java:S1643¡"Use a StringBuilder instead.(Ú›ù

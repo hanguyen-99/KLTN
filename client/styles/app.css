@@ -1,0 +1,211 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f3f4f6;
+}
+#list-doc .react-pdf__Page__canvas{
+    width: 100% !important;
+    height: 550px !important;
+}
+#list-doc .react-pdf__Page__textContent{
+    width: 100% !important;
+    height: 100% !important;
+}
+#list-doc,#preview-before-upload .react-pdf__Document{
+    height: 100% !important;
+}
+#list-doc,#preview-before-upload .react-pdf__Page{
+    height: 100% !important;
+}
+#preview-before-upload .react-pdf__Page__canvas{
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.circle{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 50%;
+    border: 2px solid #03a9f4;
+}
+.circle .file{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 100px;
+    height: 150px;
+    border: 2px solid #03a9f4;
+    border-radius: 8px;
+}
+.circle .file::after{
+    content: '';
+    position: absolute;
+    top: -2px;
+    right: -2px;
+    width: 25px;
+    height: 25px;
+    border-left: 2px solid #03a9f4;
+    border-bottom: 2px solid #03a9f4;
+}
+.circle .file::before{
+    content: '';
+    position: absolute;
+    top: -12px;
+    right: -6px;
+    width: 19px;
+    height: 33px;
+    border-left: 2px solid #03a9f4;
+    transform: rotate(-45deg);
+    background-color: #fff;   
+}
+.circle .file .image{
+    position: relative;
+    width: 70px;
+    height: 40px;
+    margin: 35px auto 0;
+    border: 2px solid #03a9f4;
+}
+.circle .file .image::after,.circle .file .image::before{
+    content: '';
+    position: absolute;
+    top: 10px;
+    left: 5px;
+    width: 20px;
+    height: 25px;
+    transform: rotate(-48deg);
+    border-top: 2px solid #03a9f4;
+    border-right: 2px solid #03a9f4;
+}
+.circle .file .image::before{
+    width: 12px;
+    top: 7px;
+    left: 30px;
+}
+.circle .file .text-bar{
+    width: 70px;
+    height: 2px;
+    margin: 15px auto;
+    background-color: #03a9f4;
+    box-shadow: 0 15px #03a9f4,0 30px #03a9f4;
+}
+.circle .file .text-bar::after{
+    content: '';
+    position: absolute;
+    top: 20px;
+    left: 12px;
+    width: 30px;
+    height: 2px;
+    background-color: #03a9f4;
+}
+.circle .file .text-bar::before{
+    content: '';
+    position: absolute;
+    top: 45px;
+    right: 20px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid #03a9f4;
+}
+.circle .file .fill{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    /* height: 100%; */
+    background-color: #03a9f4;
+    border-radius: 5px;
+    mix-blend-mode: screen;
+    z-index: 15;
+    animation: 1s fill infinite alternate;
+}
+.circle .scanner-bar{
+    position: absolute;
+    left: 50%;
+    bottom: 70px;
+    transform: translateX(-50%);
+    width: 150px;
+    height: 3px;
+    background-color: #03a9f4;
+    animation: 1s scanner infinite alternate;
+}
+@keyframes fill{
+    0%{
+        height: 0;
+    }
+    100%{
+        height: 100%;
+    }
+}
+@keyframes scanner{
+    0%{
+        bottom: 75px;
+    }
+    100%{
+        bottom: 220px;
+    }
+}
+
+.animate-load{
+    position: relative;
+    border-bottom: 10px solid #222;
+}
+
+.animate-load::before{
+    content: attr(data-text);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    color: #03a9f4;
+    overflow: hidden;
+    border-bottom: 10px solid #03a9f4;
+    animation: animate 5s linear infinite;
+}
+
+@keyframes animate{
+    0%{
+        width: 0;
+    }
+    100%{
+        width: 100%;
+    }
+}
+
+/* 
+
+.react-pdf__Page__textContent{
+    width: 100% !important; 
+} */
+
+.view-pdf-s{
+    height: 500px;
+}
+.view-pdf-s .pg-viewer-wrapper{
+    overflow: hidden;
+}
+.view-pdf-s .pg-viewer-wrapper .pg-viewer{
+    width: 100%;
+}
+.view-pdf-s .pg-viewer-wrapper .pg-viewer .pdf-canvas{
+    display: flex;
+    justify-content: center;
+}
+
+.detail-doc .react-pdf__Page__canvas {
+ width: 100% !important;
+ height: 100% !important; 
+}
+.detail-doc .react-pdf__Document{
+    height: 100% !important;
+}
+.detail-doc .react-pdf__Document .react-pdf__Page{
+    height: 100% !important;
+}
+
+.detail-doc .react-pdf__Page__canvas .react-pdf__Page__textContent{
+ width: 100% !important;
+ height: 100% !important;
+}

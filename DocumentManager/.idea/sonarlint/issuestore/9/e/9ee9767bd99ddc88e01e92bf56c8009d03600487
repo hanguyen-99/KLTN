@@ -1,0 +1,8 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(ÎÑ¥!8’°ïÑÚ/
+o
+java:S1128"RRemove this unused import 'org.springframework.data.jpa.repository.JpaRepository'.(À™‡“8¯áïÑÚ/
+l
+java:S1128"JRemove this unused import 'org.springframework.data.jpa.repository.Query'.(Äºöïşÿÿÿÿ8¯áïÑÚ/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¯áïÑÚ/

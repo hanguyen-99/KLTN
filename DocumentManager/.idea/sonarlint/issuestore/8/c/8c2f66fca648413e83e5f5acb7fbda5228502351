@@ -1,0 +1,16 @@
+
+m
+java:S37768"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Þºõ þÿÿÿÿ
+V	java:S125z"<This block of commented-out lines of code should be removed.(Ÿ‰ùÿÿÿÿ
+Y
+java:S1155[">Use isEmpty() to check whether the collection is empty or not.(˜æóëþÿÿÿÿ
+Y
+java:S1155a">Use isEmpty() to check whether the collection is empty or not.(˜æóëþÿÿÿÿ
+Z
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(ªú½½ùÿÿÿÿ
+U
+java:S1155¬">Use isEmpty() to check whether the collection is empty or not.(Ö©Ø”
+a
+java:S2259¬"JA "NullPointerException" could be thrown; "documentApps" is nullable here.(Ö©Ø”
+]
+java:S2259»"FA "NullPointerException" could be thrown; "userApps" is nullable here.(¦ñÐæ

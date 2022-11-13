@@ -1,0 +1,27 @@
+
+`	java:S112/"FDefine and throw a dedicated exception instead of using a generic one.(£ËØçıÿÿÿÿ
+Z	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(êìJ
+[	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(»š¤ 
+`	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+`	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(£ËØçıÿÿÿÿ
+a	java:S112S"FDefine and throw a dedicated exception instead of using a generic one.(êìJ8‡Ğ¥œæ/
+b	java:S112X"FDefine and throw a dedicated exception instead of using a generic one.(»š¤ 8‡Ğ¥œæ/
+g	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ8‡Ğ¥œæ/
+h	java:S112„"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ8‡Ğ¥œæ/
+h	java:S112›"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ8â¶«æ/
+B
+java:S1068",Remove this unused "TIME_OUT" private field.(Íı‡ì
+J
+java:S1068"/Remove this unused "BUFFER_SIZE" private field.(…©ÿßÿÿÿÿÿ
+s
+java:S1192+"VDefine a constant instead of duplicating this literal "StrictHostKeyChecking" 4 times.(ñ×ø‚8—Ğ¥œæ/
+r
+java:S1192%"UDefine a constant instead of duplicating this literal "Path not allow empty" 4 times.(«Ù‚÷8Şû©æ/
+a
+java:S25837"DChange this condition so that it does not always evaluate to "false"(ì´í»8ÛÌœæ/
+a
+java:S2583N"DChange this condition so that it does not always evaluate to "false"(½Šš¸8ÚÌœæ/
+a
+java:S2583W"DChange this condition so that it does not always evaluate to "false"(ì´í»8ÁĞ¥œæ/
+a
+java:S2583."DChange this condition so that it does not always evaluate to "false"(½Šš¸8ÀĞ¥œæ/

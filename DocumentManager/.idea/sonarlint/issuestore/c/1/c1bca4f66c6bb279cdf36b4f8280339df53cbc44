@@ -1,0 +1,49 @@
+
+a	java:S112œ"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+a	java:S112ü"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+a	java:S112´"FDefine and throw a dedicated exception instead of using a generic one.(ò°‚Èùÿÿÿÿ
+\	java:S112¤"FDefine and throw a dedicated exception instead of using a generic one.(¢£ê—
+C
+java:S1874Ò",Remove this use of "Date"; it is deprecated.(Ú€©õ
+H
+java:S1874İ",Remove this use of "Date"; it is deprecated.(÷è´áıÿÿÿÿ
+]
+java:S1612Õ"AReplace this lambda with method reference 'UserReference::getId'.( êšÿÿÿÿÿ
+e
+java:S1192ú"NDefine a constant instead of duplicating this literal "User with id " 3 times.(ˆÓÈı
+c
+java:S1192’"GDefine a constant instead of duplicating this literal "&uuid=" 3 times.(¡ÛÓİÿÿÿÿÿ
+b
+java:S1192ú"KDefine a constant instead of duplicating this literal " not found" 3 times.(ˆÓÈı
+k
+java:S1192¸"ODefine a constant instead of duplicating this literal "Email is empty" 4 times.(ÆŠ¬”ıÿÿÿÿ
+v
+java:S1192ù"ZDefine a constant instead of duplicating this literal "User with id {} not found" 4 times.(‡àÿ®üÿÿÿÿ
+b
+java:S1192«"FDefine a constant instead of duplicating this literal "roles" 3 times.(„¢§øÿÿÿÿ
+f
+java:S1192‰"ODefine a constant instead of duplicating this literal "User not found" 4 times.(†Ìˆú
+m
+java:S1192c"RDefine a constant instead of duplicating this literal "User {} not found" 4 times.(âêöÇùÿÿÿÿ
+f
+java:S1192’"JDefine a constant instead of duplicating this literal "server.fe" 3 times.(¡ÛÓİÿÿÿÿÿ
+w
+java:S1192Ç"`Define a constant instead of duplicating this literal "Can't get info of user current!" 4 times.(¢ç•Ñ
+d
+java:S1192å"HDefine a constant instead of duplicating this literal "Bearer " 3 times.(ØË€¾üÿÿÿÿ
+l	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ØÇøÿÿÿÿ
+l	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àı©‘ùÿÿÿÿ
+l	java:S117ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ÁäÔÿÿÿÿÿ
+l	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤ØÇøÿÿÿÿ
+Z
+java:S1155†">Use isEmpty() to check whether the collection is empty or not.(³Ôªøÿÿÿÿ
+U
+java:S1155ò">Use isEmpty() to check whether the collection is empty or not.(Öé€ú
+F
+java:S5411›"*Use the primitive boolean expression here.(áÁï¾ùÿÿÿÿ
+A
+java:S5411£"*Use the primitive boolean expression here.(ô±ã×
+f
+java:S2259¦"JA "NullPointerException" could be thrown; "getProperty()" can return null.(ƒì²şÿÿÿÿ
+f
+java:S2259ë"JA "NullPointerException" could be thrown; "getProperty()" can return null.(ƒì²şÿÿÿÿ
